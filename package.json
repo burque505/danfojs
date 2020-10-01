@@ -16,8 +16,8 @@
     "danfojs/src/"
   ],
   "dependencies": {
-    "@tensorflow/tfjs": "^2.4.0",
-    "@tensorflow/tfjs-core": "^2.4.0",
+    "tensorflow/tfjs": "^2.4.0",
+    "tensorflow/tfjs-core": "^2.4.0",
     "mathjs": "7.2.0",
     "plotly.js": "1.54.7",
     "table": "^5.4.6",
